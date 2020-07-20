@@ -22,7 +22,7 @@ int main() {
 		/*std::cout << "Ham Sandwich!\n";
 		return 0;*/
 
-	cout << sizeof(char) << endl;
+	/*cout << sizeof(char) << endl;
 	cout << sizeof(int) << endl;
 	cout << sizeof(float) << endl;
 	cout << sizeof(double) << endl;
@@ -31,7 +31,12 @@ int main() {
 	cout << ' ' << endl;
 	cout << sizeof(short int) << endl;
 	cout << sizeof(long int) << endl;
-	cout << sizeof(long long int) << endl;
+	cout << sizeof(long long int) << endl;*/
+
+	signed int x = -1;
+	unsigned int y = -1;
+	cout << x << endl;
+	cout << y << endl;
 
 		
 		return 0;
