@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
+
 int main() {
-	int x = 0;
+	/*int x = 0;
 	int cars = 14;
 	int debt = -4000;
 	float cash = 2.32;
@@ -20,5 +21,13 @@ int main() {
 
 		/*std::cout << "Ham Sandwich!\n";
 		return 0;*/
+
+	cout << sizeof(char); << endl
+	cout << sizeof(int); << endl
+	cout << sizeof(float); << endl
+	cout << sizeof(double); << endl
+	cout << sizeof(bool); << endl
+
+		
 		return 0;
 }
