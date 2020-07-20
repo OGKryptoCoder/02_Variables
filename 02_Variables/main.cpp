@@ -28,6 +28,11 @@ int main() {
 	cout << sizeof(double) << endl;
 	cout << sizeof(bool) << endl;
 
+	cout << ' ' << endl;
+	cout << sizeof(short int) << endl;
+	cout << sizeof(long int) << endl;
+	cout << sizeof(long long int) << endl;
+
 		
 		return 0;
 }
